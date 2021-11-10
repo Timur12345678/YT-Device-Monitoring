@@ -1,1 +1,3 @@
-print("Hello everyone');
+print("Hello everyone");
+print("Hello world");
+        
