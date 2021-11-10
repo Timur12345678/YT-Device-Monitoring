@@ -1,0 +1,4 @@
+log/
+docker-compose.yaml
+__pycache__/
+resources/products.json
